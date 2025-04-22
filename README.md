@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @carolina-museum
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning LLM and other machine learning methods, statistics, and optimization
-- 💡 I'm also learning computer networking
+- 💡 I'm also into computer networking
 - 💞️ I’m looking to collaborate on all fun projects :)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love to cook because I love to eat 🍙🍙🍙
